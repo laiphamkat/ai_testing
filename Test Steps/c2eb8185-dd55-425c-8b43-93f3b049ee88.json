@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on div loginCredentials",
+        "step 3: Login -> Navigate to page '/inventory.html'",
+        "step 4: Click on button addToCart",
+        "step 5: Click on link itemTitle -> Navigate to page '/inventory-item.html'",
+        "step 6: Click on link shoppingCart -> Navigate to page '/cart.html'",
+        "step 7: Click on button checkout -> Navigate to page '/checkout-step-one.html'",
+        "step 8: Click on input firstName",
+        "step 9: Enter input value in input firstName",
+        "step 10: Click on input lastName",
+        "step 11: Enter input value in input lastName",
+        "step 12: Click on input postalCode",
+        "step 13: Click on input continue",
+        "step 14: Enter input value in input postalCode -> Navigate to page '/checkout-step-two.html'",
+        "step 15: Click on button finish -> Navigate to page '/checkout-complete.html'",
+        "step 16: Click on div checkoutComplete -> Navigate to page ''",
+        "step 17: Take full page screenshot as checkpoint"
+    ]
+}
