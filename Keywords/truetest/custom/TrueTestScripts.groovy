@@ -1,9 +1,9 @@
 package truetest.custom
 
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable
 import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+import internal.GlobalVariable
 
 public class TrueTestScripts {
     
@@ -18,7 +18,7 @@ public class TrueTestScripts {
             // import your.package
             // import authentication.Login
             // call your custom login method
-            // Login.login()
+            Login.login()
             // Trigger a custom Login keyword
             // CustomKeywords.login()
         } catch(Exception e) {

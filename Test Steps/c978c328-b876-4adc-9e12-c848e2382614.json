@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Login -> Navigate to page '/inventory.html'",
+        "step 3: Click on link itemTitles (ItemTitle) -> Navigate to page '/inventory-item.html'",
+        "step 4: Click on button AddToCart",
+        "step 5: Click on link ShoppingCart",
+        "step 6: Fill out personal details on the checkout page",
+        "step 7: Click on button Finish -> Navigate to page '/checkout-complete.html'",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}
