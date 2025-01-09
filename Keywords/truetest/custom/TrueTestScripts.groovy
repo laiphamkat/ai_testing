@@ -73,6 +73,7 @@ public class TrueTestScripts {
     
     public static void setSliderValue(TestObject to, double value) {
         WebUI.delay(1)
+        WebUI.enhancedClick(to)
         def sliderElement = WebUiCommonHelper.findWebElement(to, 30)
         double sliderWidth = Double.parseDouble(WebUI.executeJavaScript("return arguments[0].getBoundingClientRect().width", Arrays.asList(sliderElement)).toString())
         def sliderHandleElement = WebUI.executeJavaScript("return arguments[0].querySelector('[role=slider]')", Arrays.asList(sliderElement))

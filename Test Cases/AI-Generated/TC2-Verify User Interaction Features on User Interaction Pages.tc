@@ -10,7 +10,7 @@
     <name>TC2-Verify User Interaction Features on User Interaction Pages</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>42594a8c-e6cf-4500-8b8d-cc28e361c8c3</testCaseGuid>
+    <testCaseGuid>486df454-8560-4c58-9f69-aff525b96fef</testCaseGuid>
     <variable>
         <defaultValue>'multi select '</defaultValue>
         <description>Input data variable</description>
