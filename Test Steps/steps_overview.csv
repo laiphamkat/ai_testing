@@ -1,0 +1,23 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Login and Verify Home Page Access in Sauce Demo Application,"Navigate to the home page, perform login actions, and verify successful access to the home page.","Step 1: Navigate to https://www.saucedemo.com
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input Username
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+2,Interact with User Interaction Pages and Verify Results in Sauce Demo,"Login and navigate through various user interaction options, select services, and verify the results on user interaction pages.","Step 1: Navigate to https://www.saucedemo.com
+Step 2: Login
+Step 3: Navigate to *
+Step 4: Select option with input value from select serviceOptions (ChooseService1)
+Step 5: Select option with input value from select serviceOptions (ChooseService2)
+Step 6: Select option with input value from select serviceOptions (ChooseService3)
+Step 7: Click on link Slider -> Navigate to page 'single#slider'
+Step 8: Click on div ContentBlock1
+Step 9: Click on div ContentBlock2
+Step 10: Click on div ContentBlock3
+Step 11: Click on link Select -> Navigate to page 'user interaction pages#*'
+Step 12: Click on link Slide
+Step 13: Click on div SearchResult
+Step 14: Enter input value in input SearchDocs
+Step 15: Take full page screenshot as checkpoint
+",Trivial,NEW
