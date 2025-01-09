@@ -119,7 +119,7 @@ WebUI.takeScreenshot(reportLocation + '/TC2/Step 14-Enter input value in input S
 
 "Step 15: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Interact with User Interaction Pages and Verify Results in Sauce Demo_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify User Interaction Features on User Interaction Pages_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

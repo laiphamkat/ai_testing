@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www.saucedemo.com",
+        "step 2: Login",
+        "step 3: Navigate to *",
+        "step 4: Select option with input value from select serviceOptions (ChooseService1)",
+        "step 5: Select option with input value from select serviceOptions (ChooseService2)",
+        "step 6: Select option with input value from select serviceOptions (ChooseService3)",
+        "step 7: Click on link Slider -> Navigate to page 'single#slider'",
+        "step 8: Click on div ContentBlock1",
+        "step 9: Click on div ContentBlock2",
+        "step 10: Click on div ContentBlock3",
+        "step 11: Click on link Select -> Navigate to page 'user interaction pages#*'",
+        "step 12: Click on link Slide",
+        "step 13: Click on div SearchResult",
+        "step 14: Enter input value in input SearchDocs",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}
